@@ -1,3 +1,5 @@
 .vscode/settings.json
 login.sh
 .tmp
+*.in
+*.out
